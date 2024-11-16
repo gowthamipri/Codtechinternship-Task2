@@ -44,3 +44,4 @@ The primary goal of this project is to create a simple and user-friendly web app
 
 This project is an excellent starting point for developers looking to explore API integration and build interactive web applications. It can be extended further by adding features like a 5-day weather forecast, location-based weather detection, or advanced styling frameworks like Bootstrap.
 
+![WhatsApp Image 2024-11-14 at 22 54 32_e9ba1503](https://github.com/user-attachments/assets/3375af9d-ed92-446b-a44a-1b836a5c650f)
